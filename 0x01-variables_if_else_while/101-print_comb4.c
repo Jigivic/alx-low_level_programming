@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - print all combination in ascending/decending order.	
+ * main - print all combination in ascending/decending order.
  *
  * Return: Always 0 (success)
  */
